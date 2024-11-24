@@ -1,0 +1,16 @@
+Ë
+    4Òøf  ã                   ób   — d Z ddlZddlmZ ej                  j
+                  dd«        e«       Zy)zÚ
+WSGI config for Siva_Project project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/5.1/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzSiva_Project.settings) Ú __doc__ÚosÚdjango.core.wsgir   Ú environÚ
+setdefaultÚ
+application© ó    ú&/tmp/app/Siva_Project/Siva_Project/wsgi.pyú<module>r      s0   ğñ ó 
+å 1à ‡
+
+× Ñ Ğ.Ğ0EÔ Fá"Ó$
+r   
